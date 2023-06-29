@@ -14,12 +14,12 @@
 #define S1                D4
 #define analogpin         A0
 /************************* WiFi Access Point *********************************/
-#define WLAN_SSID       "VIRUS"
-#define WLAN_PASS       "mario123"
+#define WLAN_SSID       ""  //wifi username
+#define WLAN_PASS       ""  //wifi password
 /************************* Adafruit.io Setup *********************************/
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883                   // use 8883 for SSL
-#define AIO_USERNAME    "Dhanush_5"
+#define AIO_USERNAME    "" //adafruit.io username
 #define AIO_KEY         "" //enter your adafruit.io web key here
 
 WiFiClient client;
