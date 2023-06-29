@@ -20,7 +20,7 @@
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883                   // use 8883 for SSL
 #define AIO_USERNAME    "Dhanush_5"
-#define AIO_KEY         "aio_qicJ127IkJpNBb6n5mo35L7Np2C8"
+#define AIO_KEY         "" //enter your adafruit.io web key here
 
 WiFiClient client;
 
